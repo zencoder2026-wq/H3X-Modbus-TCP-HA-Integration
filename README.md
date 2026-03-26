@@ -4,7 +4,7 @@ Prerequisites
 2. HACS (Home Assistant Community Store) installed.
 3. Your Force H3X Inverter/Hub connected to your local network (LAN/WLAN).
 4. Static IP assigned to your Pylontech H3X via your router.
-5. Modbus TCP enabled on the inverter (Default Port is usually 502).
+5. Modbus TCP enabled on the inverter (Default Port is 502).
 
 Installation via HACS Custom Repository (Recommended)
 
