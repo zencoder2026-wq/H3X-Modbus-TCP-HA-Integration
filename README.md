@@ -2,7 +2,7 @@ Prerequisites
 
 1. Home Assistant (Core 2024.1 or newer recommended)
 2. HACS (Home Assistant Community Store) installed.
-3. Your Force H3X Inverter/Hub connected to your local network (LAN/WLAN). Contact ZEN Energy Systems NZ for more information on how to configure this.
+3. Your Pylontech H3X Inverter/Hub connected to your local network (LAN/WLAN). Contact ZEN Energy Systems NZ for more information on how to configure this.
 4. Static IP assigned to your Pylontech H3X via your router.
 5. Modbus TCP enabled on the inverter (Default Port is 502).
 
