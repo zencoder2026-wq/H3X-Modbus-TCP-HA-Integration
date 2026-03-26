@@ -21,7 +21,7 @@ This integration supports configuration entirely via the Home Assistant UI (Conf
 
 1. Go to Settings > Devices & Services.
 2. Click + Add Integration in the bottom right.
-3. Search for Solar Hub Modbus.
+3. Search for Pylontech H3X Modbus.
 4. Enter your connection details:
     • Host: The IP address of your Force H3X (e.g., 192.168.1.10).
     • Port: 502.
